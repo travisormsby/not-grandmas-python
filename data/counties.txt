@@ -1,0 +1,4 @@
+county,population
+Hennepin,1292000
+Ramsey,542000
+St. Louis,200000
