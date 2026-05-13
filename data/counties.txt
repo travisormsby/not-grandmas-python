@@ -1,4 +1,4 @@
-county,population
-Hennepin,1292000
-Ramsey,542000
-St. Louis,200000
+county,population,geom
+Hennepin,1292000,POINT (-93.5 45.0)
+Ramsey,542000,POINT (-93.1 45.0)
+St. Louis,200000,POINT (-92.5 47.5)
