@@ -18,3 +18,4 @@ default = { solve-group = "default" }
 
 [tool.pixi.dependencies]
 python = "3.14.*"
+fiona = ">=1.10.1,<2"
